@@ -1,2 +1,7 @@
 # ksp
-display manager
+**dependencies**
+``` bash
+gcc
+make
+sh
+```
